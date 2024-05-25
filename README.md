@@ -16,7 +16,7 @@ This Python script automates the typing test on the [10FastFingers](https://10fa
 ## Installation
 1. **Clone or download this repository**:
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/MehmetAyaz35/Selenium-Fastfinger.git)
    ```
 2. **Navigate to the directory containing the script**:
    ```bash
